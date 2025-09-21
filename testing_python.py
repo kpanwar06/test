@@ -1,1 +1,1 @@
-print("random")
+print("nom")
